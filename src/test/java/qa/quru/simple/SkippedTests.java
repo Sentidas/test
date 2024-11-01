@@ -1,4 +1,4 @@
-package tests.simple;
+package qa.quru.simple;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Tag;
